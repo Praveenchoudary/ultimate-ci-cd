@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: praveen22233/python:replaceimagetag
+          image: praveen22233/python:replaceImageTag
           ports:
             - containerPort: 5000
 
