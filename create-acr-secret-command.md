@@ -1,3 +1,4 @@
+---
 kubectl create secret docker-registry <secret-name> \
     --namespace <namespace> \
     --docker-server=<container-registry-name>.azurecr.io \
